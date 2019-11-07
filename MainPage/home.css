@@ -1,0 +1,21 @@
+body{
+    font-family: "Noto Serif JP", Arial, Helvetica, sans-serif;
+    color: #2C3539;
+    background-color: rgb(200,200,200);
+    
+}
+
+#intro{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+#chincha {
+    width: 450px;
+    padding-left: 50px;
+    border: 1px solid #2C3539;
+    border-radius: 25px;
+    background-color: #969393;
+    margin-left: 50px;
+}

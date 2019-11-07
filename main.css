@@ -1,0 +1,26 @@
+body {
+    font-family: 'Noto Serif JP',Arial, Helvetica, sans-serif, serif;
+    color: #2C3539;
+    text-align: center;
+}
+
+h1{
+    color: #2C3539;}
+
+body{
+    background-color: rgb(200,200,200);}
+
+a{
+    color: #2c3539;}
+
+a:hover{
+    color: #8c92ac;}
+
+
+a:visited{
+    color: #374247;}
+
+#intro{
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
